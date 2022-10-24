@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZOTO2_OGRBOLUM_DE</ROLLNAME>
+    <DDLANGUAGE>T</DDLANGUAGE>
+    <DOMNAME>ZOTO2_OGRBOLUM_DO</DOMNAME>
+    <HEADLEN>13</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>13</SCRLEN2>
+    <SCRLEN3>13</SCRLEN3>
+    <DDTEXT>Öğrenci bölüm de</DDTEXT>
+    <REPTEXT>Öğrenci bölüm</REPTEXT>
+    <SCRTEXT_S>Öğr bölüm</SCRTEXT_S>
+    <SCRTEXT_M>Öğrenci bölüm</SCRTEXT_M>
+    <SCRTEXT_L>Öğrenci bölüm</SCRTEXT_L>
+    <DTELMASTER>T</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
